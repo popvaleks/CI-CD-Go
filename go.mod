@@ -1,6 +1,6 @@
 module CD-CD-Go
 
-go 1.23.3
+go 1.22.0
 
 require (
 	github.com/stretchr/testify v1.10.0
